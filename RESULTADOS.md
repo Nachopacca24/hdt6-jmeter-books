@@ -1,5 +1,7 @@
 # Resultados
 
+link: https://github.com/Nachopacca24/hdt6-jmeter-books
+
 Cada nivel corrió sin interfaz gráfica con ramp-up de 10 s y 60 s sostenidos, y el API se reseteó antes de cada corrida:
 
 ```powershell
